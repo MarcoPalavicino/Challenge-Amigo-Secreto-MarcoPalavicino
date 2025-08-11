@@ -3,7 +3,7 @@
 
 # Challenge Amigo Secreto
 
-Proyecto realizado por **Carlos San Martín Morales** como parte del challenge de **Alura Latam - Oracle Next Education**.
+Proyecto realizado por **Marco Palavicino** como parte del challenge de **Alura Latam - Oracle Next Education**.
 
 ## Descripción
 Aplicación web que permite agregar nombres de amigos y realizar un sorteo aleatorio para determinar el "amigo secreto".
