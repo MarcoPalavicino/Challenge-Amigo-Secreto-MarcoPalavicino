@@ -23,6 +23,7 @@ Aplicación web que permite agregar nombres de amigos y realizar un sorteo aleat
 1. Clonar este repositorio o descargar los archivos.
 2. Abrir `index.html` en un navegador.
 3. Ingresar nombres y realizar el sorteo.
+4. o accede a través de este LINK: https://marcopalavicino.github.io/Challenge-Amigo-Secreto-MarcoPalavicino/
 
 ## Licencia
 Este proyecto es de uso libre para fines educativos.
